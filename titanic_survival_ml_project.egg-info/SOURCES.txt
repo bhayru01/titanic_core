@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+titanic_survival_ml_project.egg-info/PKG-INFO
+titanic_survival_ml_project.egg-info/SOURCES.txt
+titanic_survival_ml_project.egg-info/dependency_links.txt
+titanic_survival_ml_project.egg-info/requires.txt
+titanic_survival_ml_project.egg-info/top_level.txt
